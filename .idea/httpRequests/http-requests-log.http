@@ -1,0 +1,10 @@
+POST https://ismp.crpt.ru/api/v3/lk/documents/create
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-09-21T115710.401.json
+
+###
+

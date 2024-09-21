@@ -1,0 +1,7 @@
+{
+  "timestamp": "21-09-2024 11:57:10",
+  "code": 401,
+  "error": "Full authentication is required to access this resource",
+  "message": "Full authentication is required to access this resource",
+  "path": "/api/v3/lk/documents/create"
+}
